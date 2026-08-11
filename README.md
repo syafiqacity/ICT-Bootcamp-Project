@@ -144,9 +144,10 @@ The following materials are preserved in this repository:
 
 | File | Description |
 |------|-------------|
-| Presentation.pdf | PDF version of the interactive presentation |
-| Poster.pdf | Financial awareness campaign poster |
-| Certificate.pdf | Individual project achievement certificate |
+| presentation.pdf | PDF version of the interactive presentation |
+| presentation.mp4 | video version of the interactive presentation |
+| poster.pdf | Financial awareness campaign poster |
+| certificate.pdf | Individual project achievement certificate |
 
 > Note: The original animated/video file is no longer available.
 > The presentation PDF is preserved as a record of the project.
