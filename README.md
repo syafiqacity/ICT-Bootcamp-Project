@@ -48,9 +48,11 @@ including:
 
 The project also included an animated/video version of the campaign made using Animaker.
 
-The original video file of the animated version is no longer available, so the repository contains
-the surviving PDF version of the presentation as documentation of the
-project.
+The original video file of the animated version was made using Animaker. A cloud-based, 
+do-it-yourself (DIY) video animation software and AI-powered tool. This animation video 
+enable us to create our own 2Dimension cartoons which help further conveys our project's 
+messages by reducing mental effort, grabbing attention quickly, and turning abstract 
+ideas into clear visual steps.
 
 ---
 
