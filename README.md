@@ -1,4 +1,4 @@
-💻 ICT Bootcamp Project
+##💻 ICT Bootcamp Project
 A team-based ICT project combining interactive presentation design, animation, visual communication, and awareness campaigns.
 🏆 Achievement: 1st Place
 
@@ -6,15 +6,15 @@ A team-based ICT project combining interactive presentation design, animation, v
 ⸻
 
 
-📌 About the Project
+##📌 About the Project
 This repository contains the final materials from an ICT Boot Camp project completed as a team.
 The project involved creating digital and visual materials to communicate awareness messages through different formats, including an interactive presentation, poster, and animated video.
 The project consisted of two campaign components:
 Campaign
-Focus
-💰 Kempen Jimat Cermat
+##Focus
+#💰 Kempen Jimat Cermat
 Financial awareness and responsible spending
-⚖️ Anti Rasuah
+#⚖️ Anti Rasuah
 Anti-corruption awareness
 Through this project, I gained early experience in digital content creation, interactive presentation design, animation, visual communication, and teamwork.
 
