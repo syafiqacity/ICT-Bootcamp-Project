@@ -1,186 +1,98 @@
-# Kempen Jimat Cermat — Interactive Financial Awareness Campaign
-
-> An award-winning team project combining interactive presentation design,
-> visual communication, and digital content to promote responsible financial
-> habits.
-
-## Overview
-
-Kempen Jimat Cermat was a team-based financial awareness campaign
-developed during an ICT Boot Camp in Selangor.
-
-The project aimed to encourage responsible spending, saving, and financial
-planning among the general community, including teenagers and senior
-citizens.
-
-Our campaign communicated practical financial habits through interactive
-digital presentation materials, animation, and visual content.
-
-🏆 Achievement: 1st Place
-
----
-
-## What We Built
-
-The project consisted of several digital communication materials:
-
-### Interactive Presentation
-
-I worked on an interactive presentation where individual elements were
-animated and arranged to appear according to a sequence defined during
-the presentation design process.
-
-The interactive approach was used to make the information more engaging
-than a conventional static presentation.
-
-### Financial Awareness Poster
-
-The campaign poster presented practical approaches to responsible spending,
-including:
-
-- Buying essential items and avoiding unnecessary spending
-- Creating a realistic monthly budget
-- Recording daily expenses
-- Saving money regularly
-- Comparing prices before making purchases
-
-### Animated/Video Content
-
-The project also included an animated/video version of the campaign made using Animaker.
-
-The original video file of the animated version was made using Animaker. A cloud-based, 
-do-it-yourself (DIY) video animation software and AI-powered tool. This animation video 
-enable us to create our own 2Dimension cartoons which help further conveys our project's 
-messages by reducing mental effort, grabbing attention quickly, and turning abstract 
-ideas into clear visual steps.
-
----
-
-## My Role
-
-This was a team project, and I contributed to the development of the
-digital and visual presentation materials.
-
+ICT Bootcamp Project
+A team-based ICT project combining interactive presentation design, animation, visual communication, and social-awareness campaigns.
+Overview
+This repository contains materials from an ICT Boot Camp project completed as a team.
+The project involved creating digital and visual materials to communicate awareness messages through different formats, including an interactive presentation, poster, and animated video.
+The project included two campaign components:
+Kempen Jimat Cermat — a financial awareness campaign promoting responsible spending, saving, and financial planning.
+Anti Rasuah — an animated awareness video addressing corruption through a short story-based scenario.
+The project demonstrates my early experience with digital content creation, presentation design, animation, visual communication, and teamwork.
+Project Components
+1. Kempen Jimat Cermat
+Kempen Jimat Cermat focused on encouraging responsible financial habits within the community.
+The campaign targeted people from different age groups, including teenagers and senior citizens. Its content promoted practical habits such as budgeting, recording daily expenses, saving money, and comparing prices before making purchases.
+The project materials include:
+poster.pdf — Financial awareness campaign poster
+presentation.pdf — PDF version of the presentation
+presentation.mp4 — Video version of the interactive presentation
+The presentation was designed with moving and animated elements that appeared according to the sequence set during the presentation design process.
+The poster communicated practical ways to practise responsible spending, including buying essential items, creating a realistic monthly budget, recording daily expenses, saving money, and comparing prices.
+2. Anti Rasuah
+The project also included an Anti Rasuah animated video created as an awareness piece.
+The animation uses a short story-based scenario to communicate the consequences of corruption and the importance of rejecting and reporting corrupt behaviour.
+The project material is included as:
+animation.mp4 — Anti Rasuah awareness animation
+My Contribution
+This was a team project, and I contributed to the creation and preparation of the digital presentation and visual materials.
 My contributions included:
-
-- Designing the interactive presentation
-- Planning the visual layout and presentation flow
-- Setting the movement and animation of individual elements
-- Creating and customizing visual content
-- Organizing information into clear presentation sections
-- Contributing to the campaign's financial awareness content
-- Preparing digital materials for presentation
-
-The project required combining creative design with structured information
-to communicate the campaign's message clearly.
-
----
-
-## Technical & Creative Skills
-
-### Digital & Technical
-
-- Interactive presentation design
-- Animation and element sequencing
-- Digital content creation
-- Visual information organization
-
-### Design & Communication
-
-- Presentation design
-- Visual hierarchy
-- Information simplification
-- Audience-focused communication
-
-### Collaboration
-
-- Team-based project development
-- Dividing project responsibilities
-- Combining individual contributions into a single campaign
-- Preparing materials for presentation
-
----
-
-## Problem Solving
-
-One of the challenges of the project was presenting financial information
-in a way that could be understood by a broad audience.
-
-Instead of relying solely on text, we used visual elements, animation,
-structured layouts, and concise information to make the campaign easier
-to understand and more engaging.
-
-The interactive presentation required careful arrangement and sequencing
-of elements so that information appeared in the intended order during
-the presentation.
-
----
-
-## Project Outcome
-
-The project received 1st Place.
-
-Each team member received an individual certificate recognizing the
-achievement.
-
-The project demonstrated our ability to combine digital tools,
-communication, creativity, and teamwork to develop an educational campaign.
-
----
-
-## Team
-
+Designing and arranging presentation elements
+Creating the visual layout of the presentation
+Setting the movement and animation sequence of presentation elements
+Developing visual materials for the financial-awareness campaign
+Preparing and organizing presentation content
+Contributing to the campaign concepts and materials
+Working with teammates to prepare the final project
+The interactive presentation required attention to the order, positioning, and movement of individual elements so that the information could be presented in a clear sequence.
+Technologies & Tools
+Digital presentation software
+Animation tools
+Graphic design tools
+Video creation/editing tools
+The surviving project files document the final outputs. Some original editable project files are no longer available.
+Skills Demonstrated
+Technical & Digital Skills
+Interactive presentation design
+Animation and element sequencing
+Digital content creation
+Video-based communication
+Visual information organization
+Design & Communication
+Visual hierarchy
+Presentation layout
+Information simplification
+Audience-focused communication
+Visual storytelling
+Teamwork
+Collaborative project development
+Dividing responsibilities within a team
+Combining different project materials
+Preparing and presenting a completed project
+Project Achievement
+🏆 1st Place
+The project received 1st Place, with each team member receiving an individual certificate recognising the achievement.
+The certificate included in this repository serves as documentation of the achievement.
+Team
 Group: Kumpulan Chum Bucket
-
 Team Members:
-
-- Siti Norsyafiqah — Group Leader
-- Nur Arisya Nazilah
-- City Maryam Syafiqa
-
----
-
-## Project Materials
-
-The following materials are preserved in this repository:
-
-| File | Description |
-|------|-------------|
-| presentation.pdf | PDF version of the interactive presentation |
-| presentation.mp4 | video version of the interactive presentation |
-| Animation.mp4 | Animated/video version of the presentation |
-| poster.pdf | Financial awareness campaign poster |
-| certificate.pdf | Individual project achievement certificate |
-
-> Note: The original animated/video file is no longer available.
-> The presentation PDF is preserved as a record of the project.
-
----
-
-## Key Learning Outcomes
-
-This project gave me early experience in combining technology and
-communication to solve a practical communication problem.
-
-I learned how to:
-
-- Design interactive digital content
-- Organize complex information into a clear structure
-- Use animation to control the flow of information
-- Adapt content for a broad target audience
-- Collaborate within a team
-- Present information using visual and digital media
-
-Most importantly, the project introduced me to the idea that technology
-can be used not only to build software, but also to make information
-more accessible, engaging, and effective.
-
----
-
-## Project Context
-
-This project was completed as part of an ICT Boot Camp in Selangor in collaboration with UNISEL and few high schools.
-
-The campaign materials were developed around the theme of **financial
-awareness and responsible spending**, with the goal of encouraging
-better financial habits within the community.
+Siti Norsyafiqah — Group Leader
+Nur Arisya Nazilah
+City Maryam Syafiqa
+Repository Structure
+ICT-Bootcamp-Project/
+│
+├── README.md
+│
+├── Kempen-Jimat-Cermat/
+│   ├── poster.pdf
+│   ├── presentation.pdf
+│   └── presentation.mp4
+│
+├── Anti-Rasuah/
+│   └── animation.mp4
+│
+└── Achievement/
+    └── certificate.pdf
+Learning Outcomes
+This project was one of my early experiences using digital tools to create and communicate information.
+Through the project, I developed experience in:
+Designing interactive digital presentations
+Using animation to control the flow of information
+Communicating information through visual media
+Creating content for different audiences
+Organizing information into a clear presentation structure
+Working collaboratively on a project
+Combining creative and technical elements to communicate a message
+The project also helped me understand how digital tools can be used not only for technical development, but also to make information more engaging and accessible.
+Project Materials
+The repository preserves the available final outputs from the project, including the presentation, poster, videos, and achievement certificate.
+These files are provided as a portfolio record of the project and my early experience in digital content creation and technology.
